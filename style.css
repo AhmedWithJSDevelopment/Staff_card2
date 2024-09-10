@@ -6,6 +6,9 @@
   font-family: "Righteous", cursive;
 }
 
+html{
+  overflow-x: hidden;
+}
 body {
   display: flex;
   justify-content: center;
