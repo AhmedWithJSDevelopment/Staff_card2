@@ -24,7 +24,6 @@ body .container {
   justify-content: space-between;
   transition: 0.5s;
   transform: skewY(-10deg);
-  overflow-x: hidden;
 
 
 
