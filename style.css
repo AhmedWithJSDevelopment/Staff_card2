@@ -180,7 +180,7 @@ body .container .card:nth-child(3) {
 @media (max-width: 400px) {
   body {
     /* overflow: auto; */
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 
   }
   .card {
@@ -191,7 +191,7 @@ body .container .card:nth-child(3) {
   .container {
     padding-top: 55px;
     position: relative;
-    left: 25%;
+    left: 2%;
     /* top: 80%; */
   }
   .container .card {
@@ -199,6 +199,18 @@ body .container .card:nth-child(3) {
   }
   .container .card:hover {
     transform: translateY(-25px);
+  }
+
+
+
+
+  h1 {
+    /* text-align: center;
+    margin-bottom: 2rem;
+    font-family: Mr Dafoe, sans-serif;
+    font-size: .5em;
+    text-align: center;
+    text-shadow: 0 -3px 0 #333, 0 6px 8px rgba(0, 0, 0, .4), 0 9px 10px rgba(0, 0, 0, .15), 0 30px 10px rgba(0, 0, 0, .18), 0 15px 10px rgba(0, 0, 0, .21); */
   }
 }/*# sourceMappingURL=62.css.map */
 
