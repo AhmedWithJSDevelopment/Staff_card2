@@ -65,6 +65,8 @@ body .container .card {
   justify-items: center;
   text-align: center;
   word-wrap: break-word;
+  margin-left: auto;
+  margin-right: auto;
   
   
 }
@@ -187,6 +189,8 @@ body .container .card:nth-child(3) {
     width: 80%;
     margin-bottom: 100px;
     margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
   }
   .container {
     padding-top: 55px;
